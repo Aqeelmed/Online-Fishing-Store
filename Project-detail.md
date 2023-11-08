@@ -1,4 +1,5 @@
 In this file i am going to tell you about the features about the Project. The Pakage i used in this project are as fellows:
+<br>
 -Jetstream Package
 -Stripe Pakage 
 -Guzzle HTTP
