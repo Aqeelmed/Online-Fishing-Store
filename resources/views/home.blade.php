@@ -18,13 +18,11 @@
                                             Sale 20% Off
                                         </span>
                                         <br>
-                                        On Everything
+                                        On Everythings
                                     </h1>
                                     <p>
                                         20%off on entire purchase is a better option as we've independency on buying any stuff and get the discount whereas inorder
                                          to avail the discount on a particular product,we have to buy that specific product.
-
-
                                     </p>
                                     <div class="btn-box">
                                         <a href="{{url('products')}}" class="btn1">
